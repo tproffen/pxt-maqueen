@@ -4,7 +4,8 @@
     "description": "Affordable mini robot designed by DFRobot",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "neopixel": "github:elecfreaks/pxt-neopixel#v0.6.18"
     },
     "files": [
         "maqueen.ts",
