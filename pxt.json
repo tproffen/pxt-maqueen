@@ -4,8 +4,7 @@
     "description": "Affordable mini robot designed by DFRobot (ORCSGirls version)",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:tproffen/pxt-neopixel#v0.6.18"
+        "core": "*"
     },
     "files": [
         "maqueen.ts",
