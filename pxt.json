@@ -1,7 +1,7 @@
 {
     "name": "maqueen",
     "version": "1.6.0",
-    "description": "Affordable mini robot designed by DFRobot (ORCSGirls version)",
+    "description": "Maqueen by DFRobot (ORCSGirls version)",
     "license": "MIT",
     "dependencies": {
         "core": "*",
