@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:tproffen/pxt-neopixel"
+        "neopixel": "github:elecfreaks/pxt-neopixel"
     },
     "files": [
         "maqueen.ts",
