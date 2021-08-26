@@ -1,6 +1,6 @@
 {
     "name": "maqueen",
-    "version": "1.6.2",
+    "version": "1.6.3",
     "description": "Maqueen by DFRobot (ORCSGirls version)",
     "license": "MIT",
     "dependencies": {
