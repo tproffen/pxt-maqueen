@@ -4,8 +4,7 @@
     "description": "Maqueen by DFRobot (ORCSGirls version)",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:elecfreaks/pxt-neopixel"
+        "core": "*"
     },
     "files": [
         "maqueen.ts",
