@@ -12,7 +12,7 @@
         "enums.d.ts",
         "_locales/fr/maqueen-strings.json",
         "shims.d.ts",
-        "README.md",
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
